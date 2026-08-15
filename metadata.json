@@ -1,0 +1,6 @@
+{
+  "name": "FactorPlayX",
+  "description": "Pro Android Media Player with 4× speed, 200% software audio boost, hardware acceleration, gesture controls, PiP, equalizer, subtitles, and playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
